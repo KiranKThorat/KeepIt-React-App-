@@ -1,9 +1,13 @@
 import React from "react";
+import EditNoteIcon from '@mui/icons-material/EditNote';
+import Zoom from '@mui/material/Zoom';
 
 function Header(){
     return (
     <header>
-        <h1>Keepit</h1>
+     <Zoom in="true">
+        <h1><EditNoteIcon/>Keepit</h1>
+        </Zoom>
     </header>
     );
 }
