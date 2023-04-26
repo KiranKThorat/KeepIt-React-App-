@@ -6,7 +6,7 @@ function Header(){
     return (
     <header>
      <Zoom in="true">
-        <h1><EditNoteIcon/>Keepit</h1>
+        <h1><EditNoteIcon/>Noteit</h1>
         </Zoom>
     </header>
     );

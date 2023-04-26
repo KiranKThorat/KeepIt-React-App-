@@ -8,13 +8,13 @@ html {
 }
 body {
   background: #eee;
-  background-image: background-color: #8a008a;
-  background-image: url("https://www.transparenttextures.com/patterns/diamond-upholstery.png");
-  padding: 0 16px;
+  background-color: #00b7cf;
+  background-image: url("https://www.transparenttextures.com/patterns/church.png");
+  
 }
 
 header {
-  background-color: #f5ba13;
+  background-color: #0065bd;
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
